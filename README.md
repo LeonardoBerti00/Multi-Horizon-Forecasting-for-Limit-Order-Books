@@ -1,1 +1,6 @@
 # Multi-Horizon-Forecasting-for-Limit-Order-Books
+In this work I will present the implementation of the models (DeepLOB-Seq2Seq and DeepLOB-Attention) proposed in [Multi-Horizon Forecasting for Limit Order Books: Novel Deep Learning Approaches and Hardware Acceleration using Intelligent Processing Units](https://arxiv.org/pdf/2105.10430.pdf). 
+
+I reached the same results of the original paper.
+
+To run the code you just have to download the [FI-2010 dataset](https://etsin.fairdata.fi/dataset/73eb48d7-4dbc-4a10-a52a-da745b47a649/data) and change the data path, then the notebook will do the rest, including the training and testing.
