@@ -1,7 +1,7 @@
 # Multi-Horizon-Forecasting-for-Limit-Order-Books
 In this work I will present the implementation of the models (DeepLOB-Seq2Seq and DeepLOB-Attention) proposed in [Multi-Horizon Forecasting for Limit Order Books: Novel Deep Learning Approaches and Hardware Acceleration using Intelligent Processing Units](https://arxiv.org/pdf/2105.10430.pdf). 
 
-In every notebook is proposed all the machine learning pipeline, starting from the loading of the dataset, passing from the labeling method, creation of the datasets and dataloaders, ending with the train, validation and test.
+In every notebooks is proposed all the machine learning pipeline, starting from the loading of the dataset, passing from the labeling method, creation of the datasets and dataloaders, ending with the train, validation and test.
 
 I reached the same results of the original paper.
 
